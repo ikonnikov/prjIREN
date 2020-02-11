@@ -1,0 +1,5 @@
+Requirements:
+1. PDF to image:
+  - Wand http://docs.wand-py.org/
+  - ImageMagick http://legacy.imagemagick.org/script/binary-releases.php#windows
+  - ghostscript https://www.ghostscript.com/download/gsdnld.html
